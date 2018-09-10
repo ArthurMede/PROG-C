@@ -1,4 +1,4 @@
 # PROG-C
-##Nome: Arthur
-##Idade: 18
-##Matricula: 201810279411
+##Nome##: Arthur
+##Idade##: 18
+##**Matrícula**##: 201810279411
